@@ -1,0 +1,16 @@
+F:\BarsGroupNet\EventChecking\EventChecking\bin\Debug\net5.0\EventChecking.exe
+F:\BarsGroupNet\EventChecking\EventChecking\bin\Debug\net5.0\EventChecking.deps.json
+F:\BarsGroupNet\EventChecking\EventChecking\bin\Debug\net5.0\EventChecking.runtimeconfig.json
+F:\BarsGroupNet\EventChecking\EventChecking\bin\Debug\net5.0\EventChecking.runtimeconfig.dev.json
+F:\BarsGroupNet\EventChecking\EventChecking\bin\Debug\net5.0\EventChecking.dll
+F:\BarsGroupNet\EventChecking\EventChecking\bin\Debug\net5.0\ref\EventChecking.dll
+F:\BarsGroupNet\EventChecking\EventChecking\bin\Debug\net5.0\EventChecking.pdb
+F:\BarsGroupNet\EventChecking\EventChecking\obj\Debug\net5.0\EventChecking.csproj.AssemblyReference.cache
+F:\BarsGroupNet\EventChecking\EventChecking\obj\Debug\net5.0\EventChecking.GeneratedMSBuildEditorConfig.editorconfig
+F:\BarsGroupNet\EventChecking\EventChecking\obj\Debug\net5.0\EventChecking.AssemblyInfoInputs.cache
+F:\BarsGroupNet\EventChecking\EventChecking\obj\Debug\net5.0\EventChecking.AssemblyInfo.cs
+F:\BarsGroupNet\EventChecking\EventChecking\obj\Debug\net5.0\EventChecking.csproj.CoreCompileInputs.cache
+F:\BarsGroupNet\EventChecking\EventChecking\obj\Debug\net5.0\EventChecking.dll
+F:\BarsGroupNet\EventChecking\EventChecking\obj\Debug\net5.0\ref\EventChecking.dll
+F:\BarsGroupNet\EventChecking\EventChecking\obj\Debug\net5.0\EventChecking.pdb
+F:\BarsGroupNet\EventChecking\EventChecking\obj\Debug\net5.0\EventChecking.genruntimeconfig.cache

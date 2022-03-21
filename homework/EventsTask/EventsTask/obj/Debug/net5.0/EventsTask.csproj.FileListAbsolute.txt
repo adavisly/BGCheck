@@ -1,0 +1,16 @@
+F:\BarsGroupNet\homework\EventsTask\EventsTask\bin\Debug\net5.0\EventsTask.exe
+F:\BarsGroupNet\homework\EventsTask\EventsTask\bin\Debug\net5.0\EventsTask.deps.json
+F:\BarsGroupNet\homework\EventsTask\EventsTask\bin\Debug\net5.0\EventsTask.runtimeconfig.json
+F:\BarsGroupNet\homework\EventsTask\EventsTask\bin\Debug\net5.0\EventsTask.runtimeconfig.dev.json
+F:\BarsGroupNet\homework\EventsTask\EventsTask\bin\Debug\net5.0\EventsTask.dll
+F:\BarsGroupNet\homework\EventsTask\EventsTask\bin\Debug\net5.0\ref\EventsTask.dll
+F:\BarsGroupNet\homework\EventsTask\EventsTask\bin\Debug\net5.0\EventsTask.pdb
+F:\BarsGroupNet\homework\EventsTask\EventsTask\obj\Debug\net5.0\EventsTask.csproj.AssemblyReference.cache
+F:\BarsGroupNet\homework\EventsTask\EventsTask\obj\Debug\net5.0\EventsTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\BarsGroupNet\homework\EventsTask\EventsTask\obj\Debug\net5.0\EventsTask.AssemblyInfoInputs.cache
+F:\BarsGroupNet\homework\EventsTask\EventsTask\obj\Debug\net5.0\EventsTask.AssemblyInfo.cs
+F:\BarsGroupNet\homework\EventsTask\EventsTask\obj\Debug\net5.0\EventsTask.csproj.CoreCompileInputs.cache
+F:\BarsGroupNet\homework\EventsTask\EventsTask\obj\Debug\net5.0\EventsTask.dll
+F:\BarsGroupNet\homework\EventsTask\EventsTask\obj\Debug\net5.0\ref\EventsTask.dll
+F:\BarsGroupNet\homework\EventsTask\EventsTask\obj\Debug\net5.0\EventsTask.pdb
+F:\BarsGroupNet\homework\EventsTask\EventsTask\obj\Debug\net5.0\EventsTask.genruntimeconfig.cache
