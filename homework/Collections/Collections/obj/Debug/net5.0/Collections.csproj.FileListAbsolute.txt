@@ -1,0 +1,16 @@
+F:\BarsGroupNet\homework\Collections\Collections\bin\Debug\net5.0\Collections.exe
+F:\BarsGroupNet\homework\Collections\Collections\bin\Debug\net5.0\Collections.deps.json
+F:\BarsGroupNet\homework\Collections\Collections\bin\Debug\net5.0\Collections.runtimeconfig.json
+F:\BarsGroupNet\homework\Collections\Collections\bin\Debug\net5.0\Collections.runtimeconfig.dev.json
+F:\BarsGroupNet\homework\Collections\Collections\bin\Debug\net5.0\Collections.dll
+F:\BarsGroupNet\homework\Collections\Collections\bin\Debug\net5.0\ref\Collections.dll
+F:\BarsGroupNet\homework\Collections\Collections\bin\Debug\net5.0\Collections.pdb
+F:\BarsGroupNet\homework\Collections\Collections\obj\Debug\net5.0\Collections.csproj.AssemblyReference.cache
+F:\BarsGroupNet\homework\Collections\Collections\obj\Debug\net5.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+F:\BarsGroupNet\homework\Collections\Collections\obj\Debug\net5.0\Collections.AssemblyInfoInputs.cache
+F:\BarsGroupNet\homework\Collections\Collections\obj\Debug\net5.0\Collections.AssemblyInfo.cs
+F:\BarsGroupNet\homework\Collections\Collections\obj\Debug\net5.0\Collections.csproj.CoreCompileInputs.cache
+F:\BarsGroupNet\homework\Collections\Collections\obj\Debug\net5.0\Collections.dll
+F:\BarsGroupNet\homework\Collections\Collections\obj\Debug\net5.0\ref\Collections.dll
+F:\BarsGroupNet\homework\Collections\Collections\obj\Debug\net5.0\Collections.pdb
+F:\BarsGroupNet\homework\Collections\Collections\obj\Debug\net5.0\Collections.genruntimeconfig.cache

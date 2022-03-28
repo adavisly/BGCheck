@@ -1,0 +1,6 @@
+[Info] : [String] : LogInfoStr
+[Warning] : [String] : LogWarningStr
+[Error] : [String] : LogErrorStr. Exception of type 'System.Exception' was thrown.
+[Info] : [Int32] : LogInfoInt
+[Warning] : [Int32] : LogWarningInt
+[Error] : [Int32] : LogErrorInt. Exception of type 'System.Exception' was thrown.

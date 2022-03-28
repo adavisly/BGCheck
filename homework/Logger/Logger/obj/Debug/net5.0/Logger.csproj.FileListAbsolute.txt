@@ -1,0 +1,16 @@
+F:\BarsGroupNet\homework\Logger\Logger\bin\Debug\net5.0\Logger.exe
+F:\BarsGroupNet\homework\Logger\Logger\bin\Debug\net5.0\Logger.deps.json
+F:\BarsGroupNet\homework\Logger\Logger\bin\Debug\net5.0\Logger.runtimeconfig.json
+F:\BarsGroupNet\homework\Logger\Logger\bin\Debug\net5.0\Logger.runtimeconfig.dev.json
+F:\BarsGroupNet\homework\Logger\Logger\bin\Debug\net5.0\Logger.dll
+F:\BarsGroupNet\homework\Logger\Logger\bin\Debug\net5.0\ref\Logger.dll
+F:\BarsGroupNet\homework\Logger\Logger\bin\Debug\net5.0\Logger.pdb
+F:\BarsGroupNet\homework\Logger\Logger\obj\Debug\net5.0\Logger.csproj.AssemblyReference.cache
+F:\BarsGroupNet\homework\Logger\Logger\obj\Debug\net5.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+F:\BarsGroupNet\homework\Logger\Logger\obj\Debug\net5.0\Logger.AssemblyInfoInputs.cache
+F:\BarsGroupNet\homework\Logger\Logger\obj\Debug\net5.0\Logger.AssemblyInfo.cs
+F:\BarsGroupNet\homework\Logger\Logger\obj\Debug\net5.0\Logger.csproj.CoreCompileInputs.cache
+F:\BarsGroupNet\homework\Logger\Logger\obj\Debug\net5.0\Logger.dll
+F:\BarsGroupNet\homework\Logger\Logger\obj\Debug\net5.0\ref\Logger.dll
+F:\BarsGroupNet\homework\Logger\Logger\obj\Debug\net5.0\Logger.pdb
+F:\BarsGroupNet\homework\Logger\Logger\obj\Debug\net5.0\Logger.genruntimeconfig.cache
