@@ -1,0 +1,16 @@
+F:\BarsGroupNet\homework\Thread\Thread\bin\Debug\net5.0\ThreadTask.exe
+F:\BarsGroupNet\homework\Thread\Thread\bin\Debug\net5.0\ThreadTask.deps.json
+F:\BarsGroupNet\homework\Thread\Thread\bin\Debug\net5.0\ThreadTask.runtimeconfig.json
+F:\BarsGroupNet\homework\Thread\Thread\bin\Debug\net5.0\ThreadTask.runtimeconfig.dev.json
+F:\BarsGroupNet\homework\Thread\Thread\bin\Debug\net5.0\ThreadTask.dll
+F:\BarsGroupNet\homework\Thread\Thread\bin\Debug\net5.0\ref\ThreadTask.dll
+F:\BarsGroupNet\homework\Thread\Thread\bin\Debug\net5.0\ThreadTask.pdb
+F:\BarsGroupNet\homework\Thread\Thread\obj\Debug\net5.0\ThreadTask.csproj.AssemblyReference.cache
+F:\BarsGroupNet\homework\Thread\Thread\obj\Debug\net5.0\ThreadTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\BarsGroupNet\homework\Thread\Thread\obj\Debug\net5.0\ThreadTask.AssemblyInfoInputs.cache
+F:\BarsGroupNet\homework\Thread\Thread\obj\Debug\net5.0\ThreadTask.AssemblyInfo.cs
+F:\BarsGroupNet\homework\Thread\Thread\obj\Debug\net5.0\ThreadTask.csproj.CoreCompileInputs.cache
+F:\BarsGroupNet\homework\Thread\Thread\obj\Debug\net5.0\ThreadTask.dll
+F:\BarsGroupNet\homework\Thread\Thread\obj\Debug\net5.0\ref\ThreadTask.dll
+F:\BarsGroupNet\homework\Thread\Thread\obj\Debug\net5.0\ThreadTask.pdb
+F:\BarsGroupNet\homework\Thread\Thread\obj\Debug\net5.0\ThreadTask.genruntimeconfig.cache
